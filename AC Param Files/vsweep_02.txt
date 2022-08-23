@@ -1,0 +1,48 @@
+PARAMS	32										
+EPOCHS	10										
+Stimulus.epochName	Gray	RL15	RL30	RL60	RL120	RL240	LR15	LR30	LR60	LR120	LR240
+Stimulus.stimtype	11025	11025	11025	11025	11025	11025	11025	11025	11025	11025	11025
+Stimulus.ordertype	4	4	4	4	4	4	4	4	4	4	4
+Stimulus.repeats	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.duration	180	720	360	180	90	45	720	360	180	90	45
+Stimulus.lum											
+Stimulus.vel											
+Stimulus.lambda											
+Stimulus.numDeg	1	1	1	1	1	1	1	1	1	1	1
+Stimulus.framesPerUp	3	3	3	3	3	3	3	3	3	3	3
+Stimulus.direction											
+Stimulus.range											
+Stimulus.twoEyes											
+Stimulus.updateL											
+Stimulus.updateR											
+Stimulus.delayL											
+Stimulus.delayR											
+Stimulus.corrSignL											
+Stimulus.corrSignR											
+Stimulus.dirXL											
+Stimulus.dirXR											
+Stimulus.dirYL											
+Stimulus.dirYR											
+Stimulus.numDegX											
+Stimulus.numDegY											
+Stimulus.eyeDist											
+Stimulus.cL											
+Stimulus.cR											
+Stimulus.corrTypeL											
+Stimulus.corrTypeR											
+Stimulus.mLum	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5	0.5
+Stimulus.targetContrast	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+Stimulus.targetW	0	10	10	10	10	10	10	10	10	10	10
+Stimulus.targetH	0	106	106	106	106	106	106	106	106	106	106
+Stimulus.dX	0	-15	-30	-60	-120	-240	15	30	60	120	240
+Stimulus.dY	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.relativeX	0	90	90	90	90	90	-90	-90	-90	-90	-90
+Stimulus.relativeY	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.backgroundContrast	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.targetAppear	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.targetDisappear	0	720	360	180	90	45	720	360	180	90	45
+Stimulus.flickerFrequency	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.flickerPhase	0	0	0	0	0	0	0	0	0	0	0
+Stimulus.initialRadius											
+Stimulus.terminalRadius											
+Stimulus.totalTime	13770										
